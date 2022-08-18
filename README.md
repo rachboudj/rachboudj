@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋, Je suis Rachid</h1>
-<h3 align="center">Futur développeur front-end basé en France.</h3>
+<h1 align="center">Hey 👋, Je suis Rachid</h1>
+<h3 align="center">Futur développeur front-end !</h3>
 
 - 📫 Comment me contacter **rachidboudjakdji27@gmail.com**
 
