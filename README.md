@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">Student in web developpement, future front-end developper.</h3>
 
-- 🔭 I’m currently working on **a clone of Netflix with React**
+- 🔭 I’m currently working on **a React App which listing all country with Country API**
 
 - 🌱 I’m currently learning **javascript, reactjs, symfony.**
 
