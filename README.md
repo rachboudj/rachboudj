@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">Student in web developpement, future front-end developper.</h3>
 
-- 🔭 I’m currently working on **a todolist app with React**
+- 🔭 I’m currently working on **my portfolio in php**
 
-- 🌱 I’m currently learning **javascript and reactjs**
+- 🌱 I’m currently learning **javascript**
 
-- 📫 How to reach me : **rachidboudjakdji27@gmail.com**
+- 📫 How to reach me : **rboudjakdji@normandiewebschool.fr**
 
 - ⚡ Fun fact : **I like avocado 🥑**
 
